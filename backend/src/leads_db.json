@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Alush",
+        "company": "M",
+        "email": "direct@gmail.com",
+        "role": null,
+        "use_case": "build an AI voice platform for general conversation",
+        "team_size": null,
+        "timeline": "Start next month, complete in 3 months",
+        "timestamp": "2025-11-26T13:08:03.473549"
+    },
+    {
+        "name": "Ayus",
+        "company": null,
+        "email": "abcd@gmail.com",
+        "role": null,
+        "use_case": "Building an AI voice platform for general conversation",
+        "team_size": null,
+        "timeline": "Start next month, complete course within three months",
+        "timestamp": "2025-11-26T13:13:18.726757"
+    },
+    {
+        "name": "Ayush",
+        "company": "abcd company",
+        "email": "abcd@gmail.com",
+        "role": "General Manager",
+        "use_case": "Platform where AI works with general public contribution",
+        "team_size": "30 people",
+        "timeline": "Next 3 months",
+        "timestamp": "2025-11-26T13:19:06.106568"
+    }
+]
